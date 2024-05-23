@@ -11,6 +11,7 @@ body {
 }
 div {
     width: 60%;
+    max-width: 500px;
     aspect-ratio: 1 / 1;
     display: grid;
     place-items: center;
@@ -19,6 +20,6 @@ div {
     border: 5px solid #202020;
 }
 video {
-    margin: -100px;
+    margin: -25%;
     width: 100%;
 }
